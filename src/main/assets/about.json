@@ -1,0 +1,14 @@
+{
+  "title": "About NonFollowers Finder",
+  "version": "1.0.0",
+  "description": "This app helps you find Instagram users who don't follow you back. Simply import your followers and following HTML files from Instagram data download and let the app do the comparison.",
+  "features": [
+    "Compare followers and following lists",
+    "Click to open Instagram profiles",
+    "Simple and clean One UI design",
+    "Works entirely offline",
+    "No data leaves your device"
+  ],
+  "developer": "NonFollowers Team",
+  "contact": "support@nonfollowers.app"
+}

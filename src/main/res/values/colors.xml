@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="oneui_primary">#1259F6</color>
+    <color name="oneui_primary_dark">#0E4DD4</color>
+    <color name="oneui_background">#F5F7FA</color>
+    <color name="oneui_white">#FFFFFF</color>
+    <color name="oneui_text_primary">#14171A</color>
+    <color name="oneui_text_secondary">#657786</color>
+    <color name="oneui_divider">#E1E8ED</color>
+    <color name="oneui_success">#4CAF50</color>
+    <color name="oneui_black">#000000</color>
+    <color name="oneui_splash_bg">#FFFFFF</color>
+    <color name="splash_status_bar">#FFFFFF</color>
+    <color name="status_bar">#1259F6</color>
+</resources>

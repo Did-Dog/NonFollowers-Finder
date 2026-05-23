@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NonFollowers</string>
+    <string name="about">About</string>
+    <string name="splash_subtitle">Instagram Non-Follower Checker</string>
+    <string name="main_instruction">Select your Instagram data HTML files to find who doesn\'t follow you back.</string>
+    <string name="followers_label">Select Followers File</string>
+    <string name="following_label">Select Following File</string>
+    <string name="hint_followers">Expected filename: followers_1.html or followers.html</string>
+    <string name="hint_following">Expected filename: following.html</string>
+    <string name="no_file_selected">No file selected</string>
+    <string name="btn_compare">Find Non-Followers</string>
+    <string name="loading_analyzing">Analyzing your Instagram data…</string>
+    <string name="error_parse">Error parsing files</string>
+    <string name="result_count">Users who don\'t follow you back: %d</string>
+    <string name="all_follow_back">Everyone follows you back!</string>
+    <string name="at_symbol">@</string>
+    <string name="open_arrow">›</string>
+</resources>
