@@ -52,7 +52,7 @@ The signed APK will be at `app/build/outputs/apk/release/app-release.apk`.
 
 ## Download
 
-[Download latest APK](https://github.com/YOUR_USERNAME/NonFollowers-Finder/releases/latest)
+[Download latest APK](https://github.com/Did-Dog/NonFollowers-Finder/releases/latest)
 
 ## Tech Stack
 
