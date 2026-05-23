@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">NonFollowers</string>
+    <string name="app_name">NonFollowers-Finder</string>
     <string name="about">About</string>
     <string name="splash_subtitle">Instagram Non-Follower Checker</string>
     <string name="main_instruction">Select your Instagram data HTML files to find who doesn\'t follow you back.</string>
