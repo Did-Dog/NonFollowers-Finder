@@ -31,17 +31,6 @@ Find Instagram users who don't follow you back by comparing your Instagram data 
 
 Instagram data export provides HTML files containing your followers and following lists. This app extracts all usernames from both files using pattern matching, then computes the set difference (following − followers) to identify accounts that don't follow you back.
 
-## Screenshots
-
-Place your screenshots in a `screenshots/` folder in the project root:
-
-```
-screenshots/
-├── screenshot1.png   # Splash screen
-├── screenshot2.png   # Main screen with file selection
-├── screenshot3.png   # Results showing non-followers list
-└── screenshot4.png   # About dialog
-```
 
 ## Building the Project
 
